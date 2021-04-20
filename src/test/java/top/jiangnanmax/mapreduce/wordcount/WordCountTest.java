@@ -3,9 +3,12 @@ package top.jiangnanmax.mapreduce.wordcount;
 /**
  * @author jiangnanmax
  * @email jiangnanmax@gmail.com
- * @description Main
- * @date 2021/4/19
+ * @description WordCountTest
+ * @date 2021/4/20
  **/
 
-public class Main {
+public class WordCountTest {
+
+    
+
 }
